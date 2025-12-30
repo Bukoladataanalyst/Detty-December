@@ -1,0 +1,5 @@
+﻿"visitor_id,year,month,season_flag,visitor_type,estimated_visitors,assumption_flag,confidence_level,source"
+"1,2024,December,Peak,Domestic,900000,Proxy-Derived,Medium,Aviation Estimates"
+"2,2024,December,Peak,International,300000,Proxy-Derived,Medium,Aviation Estimates"
+"3,2024,July,Off-Peak,Domestic,300000,Proxy-Derived,Low,Aviation Estimates"
+"4,2024,July,Off-Peak,International,80000,Proxy-Derived,Low,Aviation Estimates"

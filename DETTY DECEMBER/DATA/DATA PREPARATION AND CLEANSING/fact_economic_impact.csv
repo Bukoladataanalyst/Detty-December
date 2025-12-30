@@ -1,0 +1,7 @@
+﻿"economic_id,year,month,season_flag,sector,revenue_ngn,assumption_flag,confidence_level,source"
+"1,2024,December,Peak,Hospitality - Hotels,54000000000,Reported,High,Lagos State Government"
+"2,2024,December,Peak,Hospitality - Short-Stay,21000000000,Estimated,Medium,Industry Reports"
+"3,2024,December,Peak,Events & Entertainment,4300000000,Estimated,Medium,Premium Times"
+"4,2024,July,Off-Peak,Hospitality - Hotels,18000000000,Estimated,Medium,Industry Baseline"
+"5,2024,July,Off-Peak,Hospitality - Short-Stay,8000000000,Estimated,Medium,Industry Baseline"
+"6,2024,July,Off-Peak,Events & Entertainment,1200000000,Estimated,Medium,Industry Baseline"
